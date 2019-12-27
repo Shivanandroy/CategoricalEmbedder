@@ -44,5 +44,6 @@ keras
 tqdm
 keras-tqdm
 ```
-
+## Contributors
+* [Prakash Behera](https://github.com/Praks07)
 
