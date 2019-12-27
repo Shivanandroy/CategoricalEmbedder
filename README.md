@@ -23,7 +23,7 @@ X_train, X_test, y_train, y_test = train_test_split(X_encoded,y)
 embeddings = ce.get_embeddings(X_train, y_train, categorical_embedding_info=embedding_info, 
                             is_classification=True, epochs=100,batch_size=256)
 ```
-A more detailed [Jupyter Notebook](http://www.github.com ) can be found here
+A more detailed [Jupyter Notebook](https://github.com/Shivanandroy/CategoricalEmbedder/blob/master/example_notebook/Example%20Notebook.ipynb ) can be found here
 
 > What's inside **Categorical Embedder** ?
 * `ce.get_embedding_info(data,categorical_variables=None)`: This function identifies all categorical variables in the data, determines its embedding size. Embedding size of the categorical variables are determined by minimum of 50 or half of the no. of its unique values i.e. embedding size of a column  = Min(50, # unique values in that column)
