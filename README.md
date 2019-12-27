@@ -1,6 +1,8 @@
 # Categorical Embedder
 
  **Categorical Embedder** is a python package that let's you convert your categorical variables into numeric via Neural Networks
+ 
+![Categorical Embedder Demo](demo/demo.gif)
 
 ## Installation
 
