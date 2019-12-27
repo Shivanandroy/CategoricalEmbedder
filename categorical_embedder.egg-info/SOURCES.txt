@@ -1,0 +1,8 @@
+README.md
+setup.py
+categorical_embedder/__init__.py
+categorical_embedder.egg-info/PKG-INFO
+categorical_embedder.egg-info/SOURCES.txt
+categorical_embedder.egg-info/dependency_links.txt
+categorical_embedder.egg-info/requires.txt
+categorical_embedder.egg-info/top_level.txt
